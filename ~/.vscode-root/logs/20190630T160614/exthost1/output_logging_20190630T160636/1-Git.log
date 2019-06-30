@@ -1,0 +1,97 @@
+Looking for git in: /usr/bin/git
+Using git 2.17.2 (Apple Git-113) from /usr/bin/git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /Users/snlcom/Desktop/penlightDancing/penlightServer
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app.ts
+> git show :src/routes/user/auth.ts
+> git ls-files --stage -- src/
+> git ls-files --stage -- src/routes/user/
+> git check-ignore -v -z --stdin
